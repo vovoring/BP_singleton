@@ -1,6 +1,10 @@
 # BP_singleton
 초급 프로젝트 싱글톤 과제를 위한 레포
 
+- 언어: Java
+- 버전: JDK 21 (`javac 21.0.10`)
+- 실행방법: Test.java와 Singleton.java파일을 같은 폴더에 넣고 Test.java 컴파일 및 실행하기.
+
 Singleton.java코드는 싱글톤 구현코드이고,
 Test.java는 확인용 실행코드입니다.
 
